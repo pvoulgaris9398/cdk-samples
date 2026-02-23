@@ -2,6 +2,7 @@
 
 ## Overview
 
+- My working repository of `AWS-CDK` samples, walkthroughs and notes to improve/refine my understanding
 - [CDK github](https://github.com/aws/aws-cdk)
 
 ## Prerequisites/Initial Setup
